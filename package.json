@@ -1,0 +1,1 @@
+{"description":"The One-Line Exit — one exit line, written by a program to /output/entry.txt","license":"MIT","name":"one-line-exit","private":true,"scripts":{"start":"node main.ts"},"type":"module","version":"1.0.0"}
